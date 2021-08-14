@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
+- 📝 Estudando JavaScript
 
  <div>
   <a href="https://github.com/Washington95">
